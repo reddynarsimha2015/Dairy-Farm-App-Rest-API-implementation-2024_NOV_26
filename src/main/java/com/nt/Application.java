@@ -10,7 +10,8 @@ public class Application {
 		int i=10;
 		SpringApplication.run(Application.class, args);
 		int age=18;
-		System.out.println(j);
+		double price=20.00;
+		System.out.println(price);
 	}
 
 }
