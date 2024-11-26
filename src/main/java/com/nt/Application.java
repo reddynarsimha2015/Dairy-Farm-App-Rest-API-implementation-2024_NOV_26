@@ -12,6 +12,7 @@ public class Application {
 		int age=18;
 		double price=20.00;
 		System.out.println(price);
+		String name="Raju";
 	}
 
 }
