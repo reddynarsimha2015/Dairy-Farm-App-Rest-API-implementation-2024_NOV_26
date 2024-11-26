@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.nt</groupId>
 	<artifactId>5_Product-Service</artifactId>
-	<version>0.0.1-SNAPSHOT_1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>5_Product-Service</name>
 	<description>Product-service</description>
 	<url/>
