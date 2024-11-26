@@ -9,6 +9,9 @@ public class Application {
 	public static void main(String[] args) {
 		int i=10;
 		SpringApplication.run(Application.class, args);
+		int j=20;
+		int k=30;
+		System.out.println(j);
 	}
 
 }
