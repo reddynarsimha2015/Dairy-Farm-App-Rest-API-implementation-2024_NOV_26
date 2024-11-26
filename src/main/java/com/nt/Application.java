@@ -11,7 +11,8 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		int age=18;
 		String name="Narsimha";
-		
-	}
+		double price=20.00;
+		System.out.println(price);
+		}
 
 }
