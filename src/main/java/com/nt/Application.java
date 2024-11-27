@@ -13,6 +13,7 @@ public class Application {
 		String name="Narsimha";
 		double price=20.00;
 		System.out.println(price);
+	    boolean isStudent=false;
 		}
 
 }
